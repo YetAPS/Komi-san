@@ -2,6 +2,10 @@
 
 Komi-san is a YAPS owned discord bot, that easy moderates discord servers on the behalf of the staff! Komi-san doesn't issue warning just sends a threatening message to the user.
 
+# Special Thanks
+
+Special Thanks to Kabirsingh2004 for his discord.js V14 Handler!
+
 ## Installation || How to setup
 
 1. Clone this repository.
@@ -21,6 +25,3 @@ Feel free to open a pull request and makes contributions to the project.
 ## Support
 
 For any issues, and queries create a issue on the issues page in our repository.
-
-# Komi-san
-# Komi-san
