@@ -13,7 +13,7 @@ client.on("ready", async () => {
 
     // Set the activity for the client
     client.user.setActivity({
-      name: `Coded By Kabir ❤️‍🔥`, // Set the activity name
+      name: `Komi Can't Communicate`, // Set the activity name
       type: ActivityType.Watching, // Set the activity type
     });
   } catch (error) {

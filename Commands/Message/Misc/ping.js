@@ -11,6 +11,6 @@ export default {
 
   run: async ({ client, message, args, prefix }) => {
     // Code
-    await client.sendEmbed(message, `🏓 Pong \`${client.ws.ping}\``);
+    await client.sendEmbed(message, `<:2965_YuriYandere:1485214986442903552> Pong \`${client.ws.ping}\``);
   },
 };

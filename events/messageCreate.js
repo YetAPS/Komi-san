@@ -25,7 +25,7 @@ client.on("messageCreate", async (message) => {
       if (nPrefix.includes(client.user.id)) {
         return client.sendEmbed(
           message,
-          ` ${client.config.emoji.success} To See My All Commands Type  \`/help\` or \`${prefix}help\``
+          ` ${client.config.emoji.success} To See My All Commands Type \`${prefix}help\``
         );
       }
     }

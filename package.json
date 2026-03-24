@@ -1,59 +1,27 @@
 {
-  "name": "discordjs-base-handler",
-  "version": "2.1.0",
-  "description": "A Discord bot handler for managing events and commands.",
+  "name": "YAPS Komi-san",
+  "version": "1.0.0",
+  "description": "A Discord Bot project like nothing ever seen, Baked in with NO PUNISHMENT moderation system.",
   "main": "bot.js",
   "type": "module",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
   },
-  "author": "KABIRSINGH2004",
+  "author": "ferbxyz",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kabirsingh2004/discordjs-base-handler"
+    "url": "https://github.com/YetAPS/Komi-san/"
   },
   "bugs": {
-    "url": "https://github.com/kabirsingh2004/discordjs-base-handler/issues"
+    "url": "https://github.com/YetAPS/Komi-san/issues/"
   },
-  "homepage": "https://github.com/kabirsingh2004/discordjs-base-handler",
-  "keywords": [
-    "discord",
-    "bot",
-    "handler",
-    "javascript",
-    "discordjs",
-    "v14",
-    "slashcommands",
-    "advanced",
-    "comprehensive",
-    "flexible",
-    "easy-to-use",
-    "well-documented",
-    "maintained",
-    "command handler",
-    "event handler",
-    "slash command handler",
-    "modal handler",
-    "button handler",
-    "interaction handler",
-    "permission handling",
-    "rate limiting",
-    "cooldown handling",
-    "localization",
-    "internationalization",
-    "scalability",
-    "performance",
-    "discord bot development",
-    "discord bot making",
-    "discord bot programming",
-    "discord bot tutorial",
-    "discord bot guide",
-    "discord bot example"
-  ],
+  "homepage": "https://github.com/YetAPS/Komi-san",
   "dependencies": {
     "discord.js": "^14.17.3",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "nodemon": "^3.1.14"
   },
   "engines": {
     "node": ">=16"
