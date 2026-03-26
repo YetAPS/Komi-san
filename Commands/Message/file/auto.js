@@ -17,8 +17,8 @@ function containsWORDS(messageContent) {
 }
 
 client.on("messageCreate", async (message) => {
-  if (message.author.bot) return;                 // ignore bots
-  if (!message.guild) return;                     // optional: ignore DMs
+  if (message.author.bot) return;                 
+  if (!message.guild) return;
   const content = message.content || "";
   if (!content) return;
 
