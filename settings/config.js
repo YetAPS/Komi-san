@@ -1,7 +1,7 @@
 import { Colors } from "discord.js";
 
 const settings = {
-  TOKEN: process.env.TOKEN || "Bot_Token",
+  TOKEN: process.env.TOKEN,
   PREFIX: process.env.PREFIX || "BotPrefix",
   Owners: ["OwnersId", "OwnersId"],
   Slash: {

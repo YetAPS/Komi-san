@@ -6,12 +6,14 @@ Komi-san is a YAPS owned discord bot, that easy moderates discord servers on the
 
 Special Thanks to Kabirsingh2004 for his discord.js V14 Handler!
 
-## Installation || How to setup
+## Installation | How to setup
 
 1. Clone this repository.
 2. Fill in the required details in **`settings/config.js`**.
+3. Fill in the blaclisted words in **`words.js`**.
 3. Run `npm install` to install dependencies.
 4. Start the bot with `npm run start` || `npm run dev`.
+
 
 
 ## License

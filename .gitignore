@@ -1,5 +1,3 @@
 node_modules
-examples
 .env
 package-lock.json
-words.js
